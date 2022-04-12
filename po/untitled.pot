@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-28 00:18+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../resources/gui/ksswin.glade.h:1
+msgctxt "to open a file"
+msgid "_Open"
+msgstr ""
+
+#: ../resources/gui/ksswin.glade.h:2
+msgctxt "to close and quit the application"
+msgid "_Quit"
+msgstr ""
+
+#: ../resources/gui/ksswin.glade.h:3
+msgid "Detect durations"
+msgstr ""
+
+#: ../resources/gui/ksswin.glade.h:4
+msgid "About Kss'Roll'"
+msgstr ""
+
+#: ../resources/gui/ksswin.glade.h:5
+msgid "(no files selected)"
+msgstr ""
+
+#: ../resources/gui/ksswin.glade.h:6
+msgctxt "to open a file"
+msgid "Open"
+msgstr ""
+
+#: ../resources/gui/ksswin.glade.h:7
+msgctxt "to play a song"
+msgid "Play"
+msgstr ""
+
+#: ../resources/gui/ksswin.glade.h:8
+msgctxt "to stop a song"
+msgid "Stop"
+msgstr ""
+
+#: ../resources/gui/ksswin.glade.h:9
+msgctxt "to go to previous song"
+msgid "Previous"
+msgstr ""
+
+#: ../resources/gui/ksswin.glade.h:10
+msgctxt "to go to next song"
+msgid "Next"
+msgstr ""
+
+#: ../resources/gui/ksswin.glade.h:11
+msgctxt "to zoom in or out the text"
+msgid "Zoom"
+msgstr ""
+
+#: ../src/ksswindow.cpp:244
+msgid "KSS format"
+msgstr ""
+
+#: ../src/ksswindow.cpp:245
+msgid "Audio library"
+msgstr ""

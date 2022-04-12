@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/kssroll">
+    <file preprocess="xml-stripblanks">ksswin.glade</file>
+    <file preprocess="xml-stripblanks">kssprogress.glade</file>
+    <!-- <file preprocess="xml-stripblanks">app_menu.ui</file> -->
+    <file>about2_.png</file>
+    <file>peng.png</file>
+    <file>kssroll.css</file>
+  </gresource>
+</gresources>

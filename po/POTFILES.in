@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+[encoding: UTF-8]
+resources/gui/ksswin.glade
+src/kss_tools.cpp
+src/ksswindow.cpp
+src/loader.cpp
+src/main.cpp

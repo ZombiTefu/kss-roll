@@ -1,0 +1,24 @@
+.main-menu {
+    background-color: #18F;
+    color: white;
+    /* border-color: shade(blue,0.4); */
+    border-radius: 6px;
+}
+
+/* exemple de coloration de bouton actif et inactif reprend la coleur normale
+ .blured :disabled  {
+    background-color: @background;
+    color: @color;
+}
+
+ .blured  button {
+    background-color: #18F;
+    color: white;
+}
+*/
+
+.option-menu {
+    background-color: red;
+    color: white;
+    border-radius: 6px;
+}
