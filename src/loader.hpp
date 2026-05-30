@@ -28,6 +28,7 @@
 #ifndef LOADER_H_
 #define LOADER_H_
 
+#include <cstdint>
 #include <string>
 #include <vector>
 

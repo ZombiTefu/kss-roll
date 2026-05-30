@@ -3,6 +3,7 @@
 
 # other
 build
+resources/gui/resources.c
 
 # Compiled Object files
 *.slo

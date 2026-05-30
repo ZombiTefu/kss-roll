@@ -325,6 +325,7 @@ void createWindow(KssWindow*& kssWindow) {
 		// refBuilder->add_from_file("resources/gui/ksswin.glade");
 		// refBuilder->add_from_file((kssroll::data_path / "ksswin.glade").string());
 		auto refBuilder = Gtk::Builder::create_from_resource("/kssroll/ksswin.glade");
+		// auto refBuilder = Gtk::Builder::create_from_file("/media/francois/DD2/dev/c/vscode/github/kss-roll/resources/gui/ksswin.glade");
 
 
 		//		Gtk::Adjustment *zoom_adjustment;

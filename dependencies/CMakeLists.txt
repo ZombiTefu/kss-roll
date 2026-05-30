@@ -3,6 +3,8 @@ include(FetchContent)
 FetchContent_Declare(
   libkss
   GIT_REPOSITORY "https://github.com/digital-sound-antiques/libkss"
+  GIT_TAG "main"
+  GIT_SHALLOW TRUE
 )
 
 add_subdirectory(libkss)
